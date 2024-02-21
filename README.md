@@ -779,7 +779,7 @@ There are other ways you can explore to improve the user experience of the appli
 - The `Add to cart` button can change to a quantity selector when the product is already added to the cart.
 - Adding notifications to the application when a user adds/removes an item to the cart.You can use the [React Toastify](https://fkhadra.github.io/react-toastify/introduction/) library to add notifications to the application.
 
-I'll implement these features in the source code of the application. You can check it out [here](https://github.com/Annastacia-dev/react-cart)
+I'll implement these features in the source code of the application. You can check it out [here](https://github.com/kidd254/MyShop)
 You can also checkout the live demo [here](https://react-cart-azure.vercel.app/)
 
 ## Resources
@@ -787,4 +787,4 @@ You can also checkout the live demo [here](https://react-cart-azure.vercel.app/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Context](https://reactjs.org/docs/context.html)
 
-Thank you for reading this tutorial. If you have any questions, feel free to reach out to me on [Email](mailto:annetotoh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/Lawrence Muema).
+Thank you for reading this tutorial. If you have any questions, feel free to reach out to me on [Email](mailto:lorenkioko@@gmail.com) or [LinkedIn](https://www.linkedin.com/in/Lawrence_Muema).
